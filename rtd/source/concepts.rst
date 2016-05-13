@@ -246,8 +246,7 @@ deployment. A zone typically corresponds to a single datacenter,
 although it is permissible to have multiple zones in a datacenter. The
 benefit of organizing infrastructure into zones is to provide physical
 isolation and redundancy. For example, each zone can have its own power
-supply and network uplink, and the zones can be geographically separated
- (though this is not required).
+supply and network uplink, and the zones can be geographically separated (though this is not required).
 
 A zone consists of:
 
